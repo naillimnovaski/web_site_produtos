@@ -16,16 +16,13 @@
  - breve descriçao
 
 ## introduçao
-- adicionamos projetos web sites de produtos desenvolvido no segundo trimestre
-escolhemos um tema para aplicar no web site
-adicionamos os preços e as descriçoes juntamente com as imagens 
-fizemos algumas alteraçoes no estilo e logo apos fizemos a entrega.
+- documento de projeto web site de produtos
 
 ## funcionalidade 📉📉
-- aprender a documentar arquivos readme com vendas de produtos
+- aprender a fazer um site de produtos
 
 ## tecnologias utilizada 🛠️🛠️
--  teams, onde drive, o alura, VS code e github
+- onde drive, VScode e github
 
 ## fontes consultadas
 - Altura.com, www.netshoes.com.br, lista.mercadolivre.com.br/tênis/promoção
